@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5cf4407159fc668b",
+        "id": "e907d32dd018cc21",
         "type": "tabs",
         "children": [
           {
-            "id": "d46ea4c091a7fe78",
+            "id": "d83972c94a3adc0d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Blog Notes/tokio spawn.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Blog Notes/tokio spawn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Blog Notes/tokio spawn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Blog Notes/tokio spawn.md"
+              }
             }
           }
         ]
@@ -138,6 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d46ea4c091a7fe78",
-  "lastOpenFiles": []
+  "active": "d83972c94a3adc0d",
+  "lastOpenFiles": [
+    "Blog Notes/tokio.md",
+    "Blog Notes/tokio spawn.md",
+    "_Templates/Concept.md",
+    "_Templates/Construct.md",
+    "Blog Notes/async runtime.md",
+    "Blog Notes/Async Concurrency.md",
+    "_Templates/Topic.md",
+    "Blog Notes/FutureExt trait.md",
+    "Blog Notes/Future trait.md",
+    "Blog Notes/future.md",
+    "future trait.md",
+    "_Templates/Example.md",
+    "_Templates",
+    "Blog Notes"
+  ]
 }
