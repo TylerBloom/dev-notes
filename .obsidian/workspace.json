@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "ab8f13d700098b36",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8df9b52a81f814a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "872d6d670e397388",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog-Notes/Why Rust..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "065ed957fb1d25a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog-Notes/The Design of this Blog.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce2dd76b1c714c9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "03812574f10ea794",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88b95441999fe573",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a298dfe581ddbaf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "85710c05dd63516c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "020b18f63d5bb65b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1be7964f0b87b4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a0ab00237122048",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4f52cf1e6ea70d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Blog-Notes/The Design of this Blog.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d81e2169e2a28fdf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Blog-Notes/The Design of this Blog.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c97dace19b5bb274",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0fca85ce7b5581d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Blog-Notes/The Design of this Blog.md"
+              }
+            }
+          },
+          {
+            "id": "6589bc9487d9b71d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "065ed957fb1d25a6",
+  "lastOpenFiles": [
+    "web_sys.md",
+    "Blog-Notes/The Design of this Blog.md",
+    "Ratatui.md",
+    "Yew.md",
+    "Shuttle.md",
+    "MongoDB.md",
+    "Axum.md",
+    "Blog-Notes/Why Rust..md",
+    "Blog-Notes/Why RefCell get_mut does not panic.md",
+    "Blog-Notes/Rust from First Principles.md",
+    "Blog-Notes/The Avid Rustacean.md",
+    "interior mutability.md",
+    "_Templates/Concept.md",
+    "_Templates/Idea.md",
+    "Blog-Notes/On the Rust learning curve.md",
+    "_Templates/User.md",
+    "_Templates/Project.md",
+    "_Templates/Series.md",
+    "_Templates/Product.md",
+    "_Templates/Post.md",
+    "_Templates/Tool.md",
+    "_Templates",
+    "Dev-Notes/Untitled.md",
+    "Blog-Notes",
+    "tournament rec system.md",
+    "filter ord iter.md",
+    "ord iter.md",
+    "on-demand rec system.md",
+    "Untitled.canvas"
+  ]
+}
