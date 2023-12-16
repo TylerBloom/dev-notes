@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog-Notes/The Design of this Blog.md",
+                "file": "Blog-Notes/Homepage.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog-Notes/The Design of this Blog.md",
+                "file": "Blog-Notes/Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog-Notes/The Design of this Blog.md",
+                "file": "Blog-Notes/Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog-Notes/The Design of this Blog.md"
+                "file": "Blog-Notes/Homepage.md"
               }
             }
           },
@@ -179,13 +179,14 @@
   },
   "active": "065ed957fb1d25a6",
   "lastOpenFiles": [
-    "web_sys.md",
     "Blog-Notes/The Design of this Blog.md",
+    "Blog-Notes/Homepage.md",
+    "Axum.md",
+    "web_sys.md",
     "Ratatui.md",
     "Yew.md",
     "Shuttle.md",
     "MongoDB.md",
-    "Axum.md",
     "Blog-Notes/Why Rust..md",
     "Blog-Notes/Why RefCell get_mut does not panic.md",
     "Blog-Notes/Rust from First Principles.md",
@@ -206,7 +207,6 @@
     "tournament rec system.md",
     "filter ord iter.md",
     "ord iter.md",
-    "on-demand rec system.md",
     "Untitled.canvas"
   ]
 }
